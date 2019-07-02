@@ -11,8 +11,6 @@ import UIKit
 class ViewController: UIViewController {
 
     var viewLike:LikeView?
-    var viewSample:UIView?
-   
     
     override func viewDidLoad() {
         super.viewDidLoad()
