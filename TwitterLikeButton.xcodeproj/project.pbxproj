@@ -36,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A35E950622CBBF090079E05E /* TwitterLikeVisual.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = TwitterLikeVisual.gif; sourceTree = "<group>"; };
 		A36B68C7229EFEAB00CFFBCA /* TwitterLikeButton.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TwitterLikeButton.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A36B68CA229EFEAB00CFFBCA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A36B68CC229EFEAB00CFFBCA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -81,6 +82,7 @@
 		A36B68BE229EFEAB00CFFBCA = {
 			isa = PBXGroup;
 			children = (
+				A35E950622CBBF090079E05E /* TwitterLikeVisual.gif */,
 				A36B68C9229EFEAB00CFFBCA /* TwitterLikeButton */,
 				A36B68E1229EFEAD00CFFBCA /* TwitterLikeButtonTests */,
 				A36B68EC229EFEAD00CFFBCA /* TwitterLikeButtonUITests */,
